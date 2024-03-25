@@ -25,7 +25,7 @@ Our mission at EurekaBotics is to democratize robotics by harnessing the power o
 ## Connect With Us
 
 - **GitHub:** [EurekaBotics GitHub Repository](https://github.com/EurekaBotics)
-- **Website:** [www.eurekabotics.in](https://blazingcold.com/)
+- **Blog:** [www.blazingcold.com](https://blazingcold.com/)
 - **Social Media:** Follow us on [Instagram](https://www.instagram.com/eurekabotics/) for updates and announcements.
 
 Join us on our journey to democratize robotics and AI in India! Together, let's unlock the potential of technology to create a brighter future for all.
