@@ -2,7 +2,8 @@
 
 ## About Us
 
-EurekaBotics is a passionate team of college students based in India, dedicated to revolutionizing the field of robotics by integrating it with artificial intelligence (AI). Our primary objective is to make robotics affordable and accessible to all Indians, regardless of their background or expertise.
+EurekaBotics is a passionate team of college students based in India, dedicated to revolutionizing the field of robotics by integrating it with artificial intelligence (AI). Our primary objective is to make robotics affordable and accessible to all Indians, regardless of their background or expertise.<br>
+![RicknMorty](https://github.com/EurekaBotics/.github/blob/main/icegif-377.gif)
 
 ## Mission
 
